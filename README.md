@@ -12,5 +12,7 @@
 - Author: BootstrapMade.com
 
 ## 檔案目錄
+```bash
 |- index.php         -> 網站首頁
 |- dessertshop.sql   -> 資料庫檔案
+```
